@@ -1,0 +1,8 @@
+- name: 'Le wagon Shanghai'
+  city_name: 'shanghai'
+- name: 'Le wagon Rio'
+  city_name: 'rio'
+- name: 'Le wagon Paris'
+  city_name: 'paris'
+- name: 'Le wagon Berlin'
+  city_name: 'berlin'
