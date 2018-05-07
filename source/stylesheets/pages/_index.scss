@@ -1,3 +1,30 @@
 // Import page-specific CSS files here.
 @import "home";
 @import "about";
+
+
+#home-flat {
+  padding: 60px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.part-title {
+  align-self: center;
+  color: $gray;
+  flex: 1 1 auto;
+  padding: 20px;
+  border-bottom: 1px solid $blue;
+  font-weight: 400;
+  margin-bottom: 30px;
+
+}
+
+
+.part-title:hover {
+
+  border-bottom: 3px solid $blue;
+   margin-bottom: 28px;
+
+}
